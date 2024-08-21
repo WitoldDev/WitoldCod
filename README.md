@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WitoldCod
-- 👀 I’m interested in pyton
+- 👀 I’m interested in python
 - 🌱 I’m currently learning git
 
 
