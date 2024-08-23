@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WitoldCod
+- 👋 Hi, I’m @WitoldDev
 - 👀 I’m interested in python
 - 🌱 I’m currently learning git
 
